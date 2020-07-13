@@ -1,0 +1,1 @@
+export default () => "컴퓨터정보공학부";

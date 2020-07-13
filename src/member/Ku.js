@@ -1,0 +1,1 @@
+export default ()=> "메인보컬";
